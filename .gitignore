@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+
+# HUD build log (contains local paths)
+Errors.txt
